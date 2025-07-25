@@ -1,0 +1,49 @@
+.more-reasons-section{
+    width:100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.more-container{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  gap:10px;
+}
+
+.more-title{
+  color:white;
+  font-weight:bold;
+  font-size:30px;
+  margin:20px auto;
+}
+
+.more-box{
+  background-color:#272727;
+  color:white;
+  height:200px;
+  width:215px;
+  padding:10px 10px 10px 15px;
+  border-radius:15px;
+  position:relative;
+}
+
+.more-heading{
+padding:10px 0px 8px 0px;
+font-weight:500;
+font-size:16px;
+}
+
+.more-description{
+  color:gray;
+  font-size:14px;
+font-weight:600;
+}
+
+.more-icon{
+  width:35px;
+  position:absolute;
+  bottom:16px;
+  right:20px;
+}
